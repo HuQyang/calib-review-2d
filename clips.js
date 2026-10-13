@@ -3,74 +3,86 @@ export const clips = [
  {
   "id": "d001",
   "video": "media/d001_video.mp4",
-  "comparison": "media/d001_comparison.mp4",
-  "overlay": "media/d001_overlay.mp4"
+  "comparison": "media/d001_comparison_v2.mp4",
+  "area": 0.234,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d002",
   "video": "media/d002_video.mp4",
-  "comparison": "media/d002_comparison.mp4",
-  "overlay": "media/d002_overlay.mp4"
+  "comparison": "media/d002_comparison_v2.mp4",
+  "area": 0.298,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d003",
   "video": "media/d003_video.mp4",
-  "comparison": "media/d003_comparison.mp4",
-  "overlay": "media/d003_overlay.mp4"
+  "comparison": "media/d003_comparison_v2.mp4",
+  "area": 0.191,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d004",
   "video": "media/d004_video.mp4",
-  "comparison": "media/d004_comparison.mp4",
-  "overlay": "media/d004_overlay.mp4"
+  "comparison": "media/d004_comparison_v2.mp4",
+  "area": 0.262,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d005",
   "video": "media/d005_video.mp4",
-  "comparison": "media/d005_comparison.mp4",
-  "overlay": "media/d005_overlay.mp4"
+  "comparison": "media/d005_comparison_v2.mp4",
+  "area": 0.415,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d006",
   "video": "media/d006_video.mp4",
-  "comparison": "media/d006_comparison.mp4",
-  "overlay": "media/d006_overlay.mp4"
+  "comparison": "media/d006_comparison_v2.mp4",
+  "area": 0.432,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d007",
   "video": "media/d007_video.mp4",
-  "comparison": "media/d007_comparison.mp4",
-  "overlay": "media/d007_overlay.mp4"
+  "comparison": "media/d007_comparison_v2.mp4",
+  "area": 0.118,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d008",
   "video": "media/d008_video.mp4",
-  "comparison": "media/d008_comparison.mp4",
-  "overlay": "media/d008_overlay.mp4"
+  "comparison": "media/d008_comparison_v2.mp4",
+  "area": 0.299,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d009",
   "video": "media/d009_video.mp4",
-  "comparison": "media/d009_comparison.mp4",
-  "overlay": "media/d009_overlay.mp4"
+  "comparison": "media/d009_comparison_v2.mp4",
+  "area": 0.348,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d010",
   "video": "media/d010_video.mp4",
-  "comparison": "media/d010_comparison.mp4",
-  "overlay": "media/d010_overlay.mp4"
+  "comparison": "media/d010_comparison_v2.mp4",
+  "area": 0.386,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d011",
   "video": "media/d011_video.mp4",
-  "comparison": "media/d011_comparison.mp4",
-  "overlay": "media/d011_overlay.mp4"
+  "comparison": "media/d011_comparison_v2.mp4",
+  "area": 0.41,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d012",
   "video": "media/d012_video.mp4",
-  "comparison": "media/d012_comparison.mp4",
-  "overlay": "media/d012_overlay.mp4"
+  "comparison": "media/d012_comparison_v2.mp4",
+  "area": 0.051,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d013",
@@ -79,20 +91,23 @@ export const clips = [
  {
   "id": "d014",
   "video": "media/d014_video.mp4",
-  "comparison": "media/d014_comparison.mp4",
-  "overlay": "media/d014_overlay.mp4"
+  "comparison": "media/d014_comparison_v2.mp4",
+  "area": 0.298,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d015",
   "video": "media/d015_video.mp4",
-  "comparison": "media/d015_comparison.mp4",
-  "overlay": "media/d015_overlay.mp4"
+  "comparison": "media/d015_comparison_v2.mp4",
+  "area": 0.432,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d016",
   "video": "media/d016_video.mp4",
-  "comparison": "media/d016_comparison.mp4",
-  "overlay": "media/d016_overlay.mp4"
+  "comparison": "media/d016_comparison_v2.mp4",
+  "area": 0.446,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d017",
@@ -101,104 +116,121 @@ export const clips = [
  {
   "id": "d018",
   "video": "media/d018_video.mp4",
-  "comparison": "media/d018_comparison.mp4",
-  "overlay": "media/d018_overlay.mp4"
+  "comparison": "media/d018_comparison_v2.mp4",
+  "area": 0.347,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d019",
   "video": "media/d019_video.mp4",
-  "comparison": "media/d019_comparison.mp4",
-  "overlay": "media/d019_overlay.mp4"
+  "comparison": "media/d019_comparison_v2.mp4",
+  "area": 0.118,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d020",
   "video": "media/d020_video.mp4",
-  "comparison": "media/d020_comparison.mp4",
-  "overlay": "media/d020_overlay.mp4"
+  "comparison": "media/d020_comparison_v2.mp4",
+  "area": 0.234,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d021",
   "video": "media/d021_video.mp4",
-  "comparison": "media/d021_comparison.mp4",
-  "overlay": "media/d021_overlay.mp4"
+  "comparison": "media/d021_comparison_v2.mp4",
+  "area": 0.134,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d022",
   "video": "media/d022_video.mp4",
-  "comparison": "media/d022_comparison.mp4",
-  "overlay": "media/d022_overlay.mp4"
+  "comparison": "media/d022_comparison_v2.mp4",
+  "area": 0.41,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d023",
   "video": "media/d023_video.mp4",
-  "comparison": "media/d023_comparison.mp4",
-  "overlay": "media/d023_overlay.mp4"
+  "comparison": "media/d023_comparison_v2.mp4",
+  "area": 0.347,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d024",
   "video": "media/d024_video.mp4",
-  "comparison": "media/d024_comparison.mp4",
-  "overlay": "media/d024_overlay.mp4"
+  "comparison": "media/d024_comparison_v2.mp4",
+  "area": 0.118,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d025",
   "video": "media/d025_video.mp4",
-  "comparison": "media/d025_comparison.mp4",
-  "overlay": "media/d025_overlay.mp4"
+  "comparison": "media/d025_comparison_v2.mp4",
+  "area": 0.037,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d026",
   "video": "media/d026_video.mp4",
-  "comparison": "media/d026_comparison.mp4",
-  "overlay": "media/d026_overlay.mp4"
+  "comparison": "media/d026_comparison_v2.mp4",
+  "area": 0.118,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d027",
   "video": "media/d027_video.mp4",
-  "comparison": "media/d027_comparison.mp4",
-  "overlay": "media/d027_overlay.mp4"
+  "comparison": "media/d027_comparison_v2.mp4",
+  "area": 0.415,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d028",
   "video": "media/d028_video.mp4",
-  "comparison": "media/d028_comparison.mp4",
-  "overlay": "media/d028_overlay.mp4"
+  "comparison": "media/d028_comparison_v2.mp4",
+  "area": 0.075,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d029",
   "video": "media/d029_video.mp4",
-  "comparison": "media/d029_comparison.mp4",
-  "overlay": "media/d029_overlay.mp4"
+  "comparison": "media/d029_comparison_v2.mp4",
+  "area": 0.299,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d030",
   "video": "media/d030_video.mp4",
-  "comparison": "media/d030_comparison.mp4",
-  "overlay": "media/d030_overlay.mp4"
+  "comparison": "media/d030_comparison_v2.mp4",
+  "area": 0.386,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d031",
   "video": "media/d031_video.mp4",
-  "comparison": "media/d031_comparison.mp4",
-  "overlay": "media/d031_overlay.mp4"
+  "comparison": "media/d031_comparison_v2.mp4",
+  "area": 0.234,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d032",
   "video": "media/d032_video.mp4",
-  "comparison": "media/d032_comparison.mp4",
-  "overlay": "media/d032_overlay.mp4"
+  "comparison": "media/d032_comparison_v2.mp4",
+  "area": 0.262,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d033",
   "video": "media/d033_video.mp4",
-  "comparison": "media/d033_comparison.mp4",
-  "overlay": "media/d033_overlay.mp4"
+  "comparison": "media/d033_comparison_v2.mp4",
+  "area": 0.11,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d034",
   "video": "media/d034_video.mp4",
-  "comparison": "media/d034_comparison.mp4",
-  "overlay": "media/d034_overlay.mp4"
+  "comparison": "media/d034_comparison_v2.mp4",
+  "area": 0.41,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d035",
@@ -207,92 +239,107 @@ export const clips = [
  {
   "id": "d036",
   "video": "media/d036_video.mp4",
-  "comparison": "media/d036_comparison.mp4",
-  "overlay": "media/d036_overlay.mp4"
+  "comparison": "media/d036_comparison_v2.mp4",
+  "area": 0.037,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d037",
   "video": "media/d037_video.mp4",
-  "comparison": "media/d037_comparison.mp4",
-  "overlay": "media/d037_overlay.mp4"
+  "comparison": "media/d037_comparison_v2.mp4",
+  "area": 0.3,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d038",
   "video": "media/d038_video.mp4",
-  "comparison": "media/d038_comparison.mp4",
-  "overlay": "media/d038_overlay.mp4"
+  "comparison": "media/d038_comparison_v2.mp4",
+  "area": 0.347,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d039",
   "video": "media/d039_video.mp4",
-  "comparison": "media/d039_comparison.mp4",
-  "overlay": "media/d039_overlay.mp4"
+  "comparison": "media/d039_comparison_v2.mp4",
+  "area": 0.299,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d040",
   "video": "media/d040_video.mp4",
-  "comparison": "media/d040_comparison.mp4",
-  "overlay": "media/d040_overlay.mp4"
+  "comparison": "media/d040_comparison_v2.mp4",
+  "area": 0.356,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d041",
   "video": "media/d041_video.mp4",
-  "comparison": "media/d041_comparison.mp4",
-  "overlay": "media/d041_overlay.mp4"
+  "comparison": "media/d041_comparison_v2.mp4",
+  "area": 0.348,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d042",
   "video": "media/d042_video.mp4",
-  "comparison": "media/d042_comparison.mp4",
-  "overlay": "media/d042_overlay.mp4"
+  "comparison": "media/d042_comparison_v2.mp4",
+  "area": 0.347,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d043",
   "video": "media/d043_video.mp4",
-  "comparison": "media/d043_comparison.mp4",
-  "overlay": "media/d043_overlay.mp4"
+  "comparison": "media/d043_comparison_v2.mp4",
+  "area": 0.415,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d044",
   "video": "media/d044_video.mp4",
-  "comparison": "media/d044_comparison.mp4",
-  "overlay": "media/d044_overlay.mp4"
+  "comparison": "media/d044_comparison_v2.mp4",
+  "area": 0.075,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d045",
   "video": "media/d045_video.mp4",
-  "comparison": "media/d045_comparison.mp4",
-  "overlay": "media/d045_overlay.mp4"
+  "comparison": "media/d045_comparison_v2.mp4",
+  "area": 0.192,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d046",
   "video": "media/d046_video.mp4",
-  "comparison": "media/d046_comparison.mp4",
-  "overlay": "media/d046_overlay.mp4"
+  "comparison": "media/d046_comparison_v2.mp4",
+  "area": 0.386,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d047",
   "video": "media/d047_video.mp4",
-  "comparison": "media/d047_comparison.mp4",
-  "overlay": "media/d047_overlay.mp4"
+  "comparison": "media/d047_comparison_v2.mp4",
+  "area": 0.489,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d048",
   "video": "media/d048_video.mp4",
-  "comparison": "media/d048_comparison.mp4",
-  "overlay": "media/d048_overlay.mp4"
+  "comparison": "media/d048_comparison_v2.mp4",
+  "area": 0.262,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d049",
   "video": "media/d049_video.mp4",
-  "comparison": "media/d049_comparison.mp4",
-  "overlay": "media/d049_overlay.mp4"
+  "comparison": "media/d049_comparison_v2.mp4",
+  "area": 0.265,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d050",
   "video": "media/d050_video.mp4",
-  "comparison": "media/d050_comparison.mp4",
-  "overlay": "media/d050_overlay.mp4"
+  "comparison": "media/d050_comparison_v2.mp4",
+  "area": 0.192,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d051",
@@ -301,8 +348,9 @@ export const clips = [
  {
   "id": "d052",
   "video": "media/d052_video.mp4",
-  "comparison": "media/d052_comparison.mp4",
-  "overlay": "media/d052_overlay.mp4"
+  "comparison": "media/d052_comparison_v2.mp4",
+  "area": 0.192,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d053",
@@ -311,8 +359,9 @@ export const clips = [
  {
   "id": "d054",
   "video": "media/d054_video.mp4",
-  "comparison": "media/d054_comparison.mp4",
-  "overlay": "media/d054_overlay.mp4"
+  "comparison": "media/d054_comparison_v2.mp4",
+  "area": 0.037,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d055",
@@ -321,20 +370,23 @@ export const clips = [
  {
   "id": "d056",
   "video": "media/d056_video.mp4",
-  "comparison": "media/d056_comparison.mp4",
-  "overlay": "media/d056_overlay.mp4"
+  "comparison": "media/d056_comparison_v2.mp4",
+  "area": 0.356,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d057",
   "video": "media/d057_video.mp4",
-  "comparison": "media/d057_comparison.mp4",
-  "overlay": "media/d057_overlay.mp4"
+  "comparison": "media/d057_comparison_v2.mp4",
+  "area": 0.134,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d058",
   "video": "media/d058_video.mp4",
-  "comparison": "media/d058_comparison.mp4",
-  "overlay": "media/d058_overlay.mp4"
+  "comparison": "media/d058_comparison_v2.mp4",
+  "area": 0.298,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d059",
@@ -343,14 +395,16 @@ export const clips = [
  {
   "id": "d060",
   "video": "media/d060_video.mp4",
-  "comparison": "media/d060_comparison.mp4",
-  "overlay": "media/d060_overlay.mp4"
+  "comparison": "media/d060_comparison_v2.mp4",
+  "area": 0.356,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d061",
   "video": "media/d061_video.mp4",
-  "comparison": "media/d061_comparison.mp4",
-  "overlay": "media/d061_overlay.mp4"
+  "comparison": "media/d061_comparison_v2.mp4",
+  "area": 0.298,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d062",
@@ -363,104 +417,121 @@ export const clips = [
  {
   "id": "d064",
   "video": "media/d064_video.mp4",
-  "comparison": "media/d064_comparison.mp4",
-  "overlay": "media/d064_overlay.mp4"
+  "comparison": "media/d064_comparison_v2.mp4",
+  "area": 0.051,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d065",
   "video": "media/d065_video.mp4",
-  "comparison": "media/d065_comparison.mp4",
-  "overlay": "media/d065_overlay.mp4"
+  "comparison": "media/d065_comparison_v2.mp4",
+  "area": 0.432,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d066",
   "video": "media/d066_video.mp4",
-  "comparison": "media/d066_comparison.mp4",
-  "overlay": "media/d066_overlay.mp4"
+  "comparison": "media/d066_comparison_v2.mp4",
+  "area": 0.234,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d067",
   "video": "media/d067_video.mp4",
-  "comparison": "media/d067_comparison.mp4",
-  "overlay": "media/d067_overlay.mp4"
+  "comparison": "media/d067_comparison_v2.mp4",
+  "area": 0.191,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d068",
   "video": "media/d068_video.mp4",
-  "comparison": "media/d068_comparison.mp4",
-  "overlay": "media/d068_overlay.mp4"
+  "comparison": "media/d068_comparison_v2.mp4",
+  "area": 0.075,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d069",
   "video": "media/d069_video.mp4",
-  "comparison": "media/d069_comparison.mp4",
-  "overlay": "media/d069_overlay.mp4"
+  "comparison": "media/d069_comparison_v2.mp4",
+  "area": 0.262,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d070",
   "video": "media/d070_video.mp4",
-  "comparison": "media/d070_comparison.mp4",
-  "overlay": "media/d070_overlay.mp4"
+  "comparison": "media/d070_comparison_v2.mp4",
+  "area": 0.192,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d071",
   "video": "media/d071_video.mp4",
-  "comparison": "media/d071_comparison.mp4",
-  "overlay": "media/d071_overlay.mp4"
+  "comparison": "media/d071_comparison_v2.mp4",
+  "area": 0.075,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d072",
   "video": "media/d072_video.mp4",
-  "comparison": "media/d072_comparison.mp4",
-  "overlay": "media/d072_overlay.mp4"
+  "comparison": "media/d072_comparison_v2.mp4",
+  "area": 0.356,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d073",
   "video": "media/d073_video.mp4",
-  "comparison": "media/d073_comparison.mp4",
-  "overlay": "media/d073_overlay.mp4"
+  "comparison": "media/d073_comparison_v2.mp4",
+  "area": 0.348,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d074",
   "video": "media/d074_video.mp4",
-  "comparison": "media/d074_comparison.mp4",
-  "overlay": "media/d074_overlay.mp4"
+  "comparison": "media/d074_comparison_v2.mp4",
+  "area": 0.118,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d075",
   "video": "media/d075_video.mp4",
-  "comparison": "media/d075_comparison.mp4",
-  "overlay": "media/d075_overlay.mp4"
+  "comparison": "media/d075_comparison_v2.mp4",
+  "area": 0.299,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d076",
   "video": "media/d076_video.mp4",
-  "comparison": "media/d076_comparison.mp4",
-  "overlay": "media/d076_overlay.mp4"
+  "comparison": "media/d076_comparison_v2.mp4",
+  "area": 0.11,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d077",
   "video": "media/d077_video.mp4",
-  "comparison": "media/d077_comparison.mp4",
-  "overlay": "media/d077_overlay.mp4"
+  "comparison": "media/d077_comparison_v2.mp4",
+  "area": 0.347,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d078",
   "video": "media/d078_video.mp4",
-  "comparison": "media/d078_comparison.mp4",
-  "overlay": "media/d078_overlay.mp4"
+  "comparison": "media/d078_comparison_v2.mp4",
+  "area": 0.432,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d079",
   "video": "media/d079_video.mp4",
-  "comparison": "media/d079_comparison.mp4",
-  "overlay": "media/d079_overlay.mp4"
+  "comparison": "media/d079_comparison_v2.mp4",
+  "area": 0.3,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d080",
   "video": "media/d080_video.mp4",
-  "comparison": "media/d080_comparison.mp4",
-  "overlay": "media/d080_overlay.mp4"
+  "comparison": "media/d080_comparison_v2.mp4",
+  "area": 0.298,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d081",
@@ -469,110 +540,128 @@ export const clips = [
  {
   "id": "d082",
   "video": "media/d082_video.mp4",
-  "comparison": "media/d082_comparison.mp4",
-  "overlay": "media/d082_overlay.mp4"
+  "comparison": "media/d082_comparison_v2.mp4",
+  "area": 0.489,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d083",
   "video": "media/d083_video.mp4",
-  "comparison": "media/d083_comparison.mp4",
-  "overlay": "media/d083_overlay.mp4"
+  "comparison": "media/d083_comparison_v2.mp4",
+  "area": 0.265,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d084",
   "video": "media/d084_video.mp4",
-  "comparison": "media/d084_comparison.mp4",
-  "overlay": "media/d084_overlay.mp4"
+  "comparison": "media/d084_comparison_v2.mp4",
+  "area": 0.356,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d085",
   "video": "media/d085_video.mp4",
-  "comparison": "media/d085_comparison.mp4",
-  "overlay": "media/d085_overlay.mp4"
+  "comparison": "media/d085_comparison_v2.mp4",
+  "area": 0.386,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d086",
   "video": "media/d086_video.mp4",
-  "comparison": "media/d086_comparison.mp4",
-  "overlay": "media/d086_overlay.mp4"
+  "comparison": "media/d086_comparison_v2.mp4",
+  "area": 0.41,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d087",
   "video": "media/d087_video.mp4",
-  "comparison": "media/d087_comparison.mp4",
-  "overlay": "media/d087_overlay.mp4"
+  "comparison": "media/d087_comparison_v2.mp4",
+  "area": 0.192,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d088",
   "video": "media/d088_video.mp4",
-  "comparison": "media/d088_comparison.mp4",
-  "overlay": "media/d088_overlay.mp4"
+  "comparison": "media/d088_comparison_v2.mp4",
+  "area": 0.386,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d089",
   "video": "media/d089_video.mp4",
-  "comparison": "media/d089_comparison.mp4",
-  "overlay": "media/d089_overlay.mp4"
+  "comparison": "media/d089_comparison_v2.mp4",
+  "area": 0.051,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d090",
   "video": "media/d090_video.mp4",
-  "comparison": "media/d090_comparison.mp4",
-  "overlay": "media/d090_overlay.mp4"
+  "comparison": "media/d090_comparison_v2.mp4",
+  "area": 0.41,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d091",
   "video": "media/d091_video.mp4",
-  "comparison": "media/d091_comparison.mp4",
-  "overlay": "media/d091_overlay.mp4"
+  "comparison": "media/d091_comparison_v2.mp4",
+  "area": 0.348,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d092",
   "video": "media/d092_video.mp4",
-  "comparison": "media/d092_comparison.mp4",
-  "overlay": "media/d092_overlay.mp4"
+  "comparison": "media/d092_comparison_v2.mp4",
+  "area": 0.489,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d093",
   "video": "media/d093_video.mp4",
-  "comparison": "media/d093_comparison.mp4",
-  "overlay": "media/d093_overlay.mp4"
+  "comparison": "media/d093_comparison_v2.mp4",
+  "area": 0.432,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d094",
   "video": "media/d094_video.mp4",
-  "comparison": "media/d094_comparison.mp4",
-  "overlay": "media/d094_overlay.mp4"
+  "comparison": "media/d094_comparison_v2.mp4",
+  "area": 0.348,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d095",
   "video": "media/d095_video.mp4",
-  "comparison": "media/d095_comparison.mp4",
-  "overlay": "media/d095_overlay.mp4"
+  "comparison": "media/d095_comparison_v2.mp4",
+  "area": 0.191,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d096",
   "video": "media/d096_video.mp4",
-  "comparison": "media/d096_comparison.mp4",
-  "overlay": "media/d096_overlay.mp4"
+  "comparison": "media/d096_comparison_v2.mp4",
+  "area": 0.262,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d097",
   "video": "media/d097_video.mp4",
-  "comparison": "media/d097_comparison.mp4",
-  "overlay": "media/d097_overlay.mp4"
+  "comparison": "media/d097_comparison_v2.mp4",
+  "area": 0.051,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d098",
   "video": "media/d098_video.mp4",
-  "comparison": "media/d098_comparison.mp4",
-  "overlay": "media/d098_overlay.mp4"
+  "comparison": "media/d098_comparison_v2.mp4",
+  "area": 0.3,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d099",
   "video": "media/d099_video.mp4",
-  "comparison": "media/d099_comparison.mp4",
-  "overlay": "media/d099_overlay.mp4"
+  "comparison": "media/d099_comparison_v2.mp4",
+  "area": 0.134,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d100",
@@ -581,8 +670,9 @@ export const clips = [
  {
   "id": "d101",
   "video": "media/d101_video.mp4",
-  "comparison": "media/d101_comparison.mp4",
-  "overlay": "media/d101_overlay.mp4"
+  "comparison": "media/d101_comparison_v2.mp4",
+  "area": 0.191,
+  "area_def": "\u88ab\u632a\u52a8\u50cf\u7d20\u5360\u753b\u9762\u7684\u6700\u5927\u6bd4\u4f8b"
  },
  {
   "id": "d102",
